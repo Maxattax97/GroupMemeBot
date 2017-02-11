@@ -1,0 +1,26 @@
+{
+  "name": "group-meme-bot",
+  "version": "0.0.1",
+  "description": "General purpose GroupMe bot, with an emphasis on memes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxattax97/GroupMemeBot.git"
+  },
+  "keywords": [
+    "groupme",
+    "bot"
+  ],
+  "author": "Max O'Cull",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Maxattax97/GroupMemeBot/issues"
+  },
+  "homepage": "https://github.com/Maxattax97/GroupMemeBot#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
